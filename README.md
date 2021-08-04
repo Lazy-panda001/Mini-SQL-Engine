@@ -13,7 +13,7 @@
 <attributeN>
 <end_table>
 ```
-## Queries
+## * Queries
    -   Select all records: SELECT * FROM table_name;
    -   Aggregate functions: sum, average, min, max, count SELECT MAX(col) FROM table_name;
    -   Project coloumns: SELECT col FROM table_name;
