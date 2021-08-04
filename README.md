@@ -29,4 +29,4 @@
 
 ## * Execute
 - run Mini-SQL-Engine from python file `python sql.py "<query>"`
-- run Mini-SQL-Engine from bash script ```
+- run Mini-SQL-Engine from bash script.
