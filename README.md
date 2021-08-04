@@ -14,7 +14,7 @@
 <end_table>
 ```
 ## * Queries
-   -   Select all records:~~ SELECT * FROM table_name; ~~
+   -   Select all records: `SELECT * FROM table_name;` 
    -   Aggregate functions: sum, average, min, max, count SELECT MAX(col) FROM table_name;
    -   Project coloumns: SELECT col FROM table_name;
    -   Project with distinct: SELECT DISTINCT col FROM table_name;
