@@ -5,3 +5,11 @@
 - all elements in the fields would be integers only
 - if file is named table1.csv, then the database table name would be table1
 - metadata.txt file will be given for schema of corresponding database tables
+```
+<begin_table>
+<table_name>
+<attribute1>
+....
+<attributeN>
+<end_table>
+```
